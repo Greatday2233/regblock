@@ -1,4 +1,4 @@
-package io.github.hfchtinm.regblock;
+package io.github.hfchtinm.vivodmguard;
 
 import android.content.ContentValues;
 
