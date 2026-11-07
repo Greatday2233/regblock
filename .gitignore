@@ -1,0 +1,14 @@
+.gradle/
+build/
+app/build/
+app/stubs-classes/
+app/xposed-stubs.jar
+keys/
+local.properties
+*.iml
+.idea/
+captures/
+.externalNativeBuild/
+.cxx/
+# 模块仓库只放描述文件，APK 走 Release
+*.apk
