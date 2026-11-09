@@ -1,5 +1,7 @@
 # RegBlocker
 
+模块包名：`io.github.greatday2233.vivodmguard`
+
 在 **采集总闸** 与 **落库口** 拦截 vivo 预装组件 `com.vivo.devicereg`（内嵌彩讯 `cn.richinfo.dm` DM SDK）对应用清单、应用使用时长、分应用流量、基站 / Wi-Fi、SIM 标识的采集与上报。
 
 不改系统分区、不联网、不采集任何数据，日志只写本机缓存目录。

@@ -1,4 +1,4 @@
-package io.github.hfchtinm.vivodmguard;
+package io.github.greatday2233.vivodmguard;
 
 import android.content.ContentValues;
 

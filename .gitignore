@@ -12,3 +12,5 @@ captures/
 .cxx/
 # 模块仓库只放描述文件，APK 走 Release
 *.apk
+retarget.sh
+install_new.sh
